@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: [https://linarietuma.github.io/clipboard-landing-page/](https://linarietuma.github.io/clipboard-landing-page/)
 
 
 ### Built with
