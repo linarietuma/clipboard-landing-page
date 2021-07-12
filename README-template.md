@@ -2,22 +2,12 @@
 
 This is a solution to the [Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9).
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-
-
 ## Overview
 
 ### The challenge
 
 The challenge was to build out this landing page and get it looking as close to the design as possible (see screenshot below and [style-guide.md](./style-guide.md) for details).
-(./design/desktop-preview.jpg)
+![](./design/desktop-preview.jpg)
 
 Users should be able to:
 
@@ -33,7 +23,6 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 
-## My process
 
 ### Built with
 
