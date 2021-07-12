@@ -7,7 +7,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ### The challenge
 
 The challenge was to build out this landing page and get it looking as close to the design as possible. 
-For detailed design see [here](./design/) and [style-guide.md](./style-guide.md) for details).
+For detailed design see [here](./design/) and [style-guide.md](./style-guide.md).
 ![](./design/desktop-preview.jpg)
 
 Users should be able to:
