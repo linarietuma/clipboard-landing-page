@@ -6,7 +6,8 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ### The challenge
 
-The challenge was to build out this landing page and get it looking as close to the design as possible (see screenshot below and [style-guide.md](./style-guide.md) for details).
+The challenge was to build out this landing page and get it looking as close to the design as possible. 
+For detailed design see [here](./design/) and [style-guide.md](./style-guide.md) for details).
 ![](./design/desktop-preview.jpg)
 
 Users should be able to:
@@ -21,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: 
 
 
 ### Built with
