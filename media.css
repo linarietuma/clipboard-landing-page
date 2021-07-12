@@ -1,0 +1,191 @@
+@media (max-width: 1150px) {
+    h1 {
+        font-size: 2.25rem;
+    }
+    h2 {
+        font-size: 2rem;
+        margin: 0 10px;
+    }
+    header p {
+        width: 80%;
+    }
+    section p {
+        width: 80%;
+    }
+    .your-snippets {
+        flex-direction: column;
+        align-items: center;
+    }
+    .snippets {
+        flex-direction: row;
+        justify-content: center;
+        text-align: center;
+        margin-left: 0;
+    }
+    .snippets div {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .snippets p {
+        width: 80%;
+    }
+    #img-computer {
+        object-position: 0;
+        height: 70%;
+        width: 70%;
+    }
+    .clipboard img {
+        height: 70%;
+        width: 70%;
+    }
+    .workflow-tools {
+        margin: 0 80px;
+    }
+    .links {
+        margin-left: -30px;
+    }
+    .links div {
+        margin: 0 30px;
+    }
+}
+
+@media (max-width: 800px) {
+    .buttons {
+        flex-direction: column;
+        width: 70%;
+    }
+    .button-mac {
+        margin-top: 22px;
+    }
+    .snippets {
+        flex-direction: column;
+    }
+    .workflow {
+        margin-bottom: 30px;
+    }
+    .workflow-tools {
+        flex-direction: column;
+        align-items: center;
+    }
+    .workflow-tools p {
+        margin-bottom: 50px;
+    }
+    .workflow-tools h3 {
+        margin-top: 18px;
+    }
+    footer {
+        flex-direction: column;
+        align-items: center;
+    }
+    .links {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    #social-media a {
+        margin: 0px 15px;
+    }
+}
+
+@media (max-width: 550px) {
+    body {
+        font-size: 16px;
+    }
+    h1 {
+        font-size: 1.95rem;
+        line-height: 1.35;
+    }
+    h2 {
+        font-size: 1.65rem;
+        line-height: 1.35;
+        margin: 45px 30px 0 30px;
+    }
+    h3 {
+        font-size: 1.4rem;
+    }
+    h3+p {
+        font-size: 16px;
+    }
+    header p {
+        font-size: 16px;
+        width: 85%;
+    }
+    section {
+        margin-bottom: 120px;
+    }
+    section p {
+        margin-bottom: 70px;
+    }
+    .your-snippets img {
+        margin-bottom: 20px;
+    }
+    .snippets p {
+        width: 82%;
+    }
+    .buttons {
+        width: 87%;
+    }
+    .workflow p {
+        margin-bottom: 90px;
+    }
+    .workflow-tools {
+        margin: 0;
+    }
+    .workflow-tools h3 {
+        margin-bottom: 0;
+    }
+    .workflow-tools p {
+        width: 85%;
+        margin-bottom: 60px;
+    }
+    #img-computer {
+        height: 84%;
+        width: 84%;
+    }
+    .clipboard img {
+        height: 92%;
+        width: 92%;
+    }
+    .links {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .logos {
+        margin-bottom: 90px;
+    }
+
+    .logos img {
+        height: 35%;
+        width: 35%;
+    }
+
+    #ibm, #hp, #vector-graphics {
+        height: 30%;
+        width: 30%;
+    }
+
+    footer {
+        line-height: 2.6;
+    }
+}
+
+@media (max-width: 405px) {
+    span {
+        text-transform: capitalize;
+    }
+}
+
+@media (min-width: 550px) {
+    br {
+        display: none;
+    }
+}
+
+@media (max-width: 375px) {
+    body {
+       background-image: url("images/bg-header-mobile.png"); 
+    }
+    
+}
